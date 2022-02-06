@@ -8,4 +8,5 @@ class GalleryPageActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.gallery_page)
     }
+
 }
